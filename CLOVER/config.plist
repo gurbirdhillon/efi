@@ -282,42 +282,42 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>C02VP0S2HX87ADSFD</string>
+		<string>C079065014NJC</string>
 		<key>ROM</key>
 		<data>tC6ZMtMM</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>10/30/2019</string>
+		<string>11/14/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM181.88Z.F000.B00.1910301943</string>
+		<string>MM81.88Z.F000.B00.1911142109</string>
 		<key>Board-ID</key>
-		<string>Mac-4B682C642B45593E</string>
+		<string>Mac-7BA5B2DFE22DDD8C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02715102GUH69FAD</string>
+		<string>C079065014NJC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>Mini-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>179.0.0.0.0</string>
+		<string>1037.60.58.0.0</string>
 		<key>Family</key>
-		<string>iMac</string>
+		<string>Mac mini</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE176</string>
+		<string>0xFD8FF466</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF7F</string>
+		<string>0xFFDFFF7F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -325,13 +325,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x00</string>
+		<string>0x20</string>
 		<key>ProductName</key>
-		<string>iMac18,1</string>
+		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C02TKPZ1H7JY</string>
+		<string>C07Y7VZVJYVX</string>
 		<key>SmUUID</key>
-		<string>A6CF8265-07EF-4E84-899D-E8B0AC6CE4D4</string>
+		<string>3E821D66-62BF-45AF-85F9-52A7234F080B</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
