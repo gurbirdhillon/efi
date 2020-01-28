@@ -174,7 +174,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwCSPg==</data>
+				<data>BwCbPg==</data>
 				<key>device-id</key>
 				<data>kj4AAA==</data>
 			</dict>
@@ -280,6 +280,8 @@
 				<false/>
 				<key>Find</key>
 				<data>g/sPD4cLBAAA</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.4</string>
 				<key>Name</key>
@@ -294,6 +296,8 @@
 				<false/>
 				<key>Find</key>
 				<data>QYP/Dw+DlAQAAA==</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.4</string>
 				<key>Name</key>
@@ -308,6 +312,8 @@
 				<false/>
 				<key>Find</key>
 				<data>g+MP0+NBCd8=</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>MatchOS</key>
 				<string>10.14.4</string>
 				<key>Name</key>
