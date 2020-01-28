@@ -10,6 +10,8 @@
 		<dict>
 			<key>Fixes</key>
 			<dict>
+				<key>AddHDMI</key>
+				<true/>
 				<key>DeleteUnused</key>
 				<true/>
 				<key>FixHPET</key>
@@ -125,6 +127,8 @@
 		<key>FixMCFG</key>
 		<true/>
 		<key>HaltEnabler</key>
+		<true/>
+		<key>PatchAPIC</key>
 		<true/>
 		<key>SSDT</key>
 		<dict>
